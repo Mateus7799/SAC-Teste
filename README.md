@@ -125,8 +125,8 @@ http://localhost:8080
 
 ## 🛠️ Tecnologias Utilizadas
 
-*Frontend:* Qute Templates (Server-side rendering para Páginas Dinâmicas).  
-*Backend:* Java 17+, Quarkus (Framework), Hibernate Panache (ORM).
-*Banco de Dados:* H2 Database (In-memory).
+* **Frontend:** Qute Templates (Server-side rendering para Páginas Dinâmicas).
+* **Backend:** Java 17+, Quarkus (Framework), Hibernate Panache (ORM).
+* **Banco de Dados:** H2 Database (In-memory).
 
 ---
