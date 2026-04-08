@@ -127,6 +127,7 @@ http://localhost:8080
 
 **Frontend:** Qute Templates (Server-side rendering para Páginas Dinâmicas).  
 **Backend:** Java 17+, Quarkus (Framework), Hibernate Panache (ORM).
+
 **Banco de Dados:** H2 Database (In-memory).
 
 ---
